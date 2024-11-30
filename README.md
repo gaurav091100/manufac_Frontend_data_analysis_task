@@ -9,7 +9,7 @@ This project is designed to analyze agricultural data from India and display it 
 The project uses a Vite Min Template as the starting point, which is already configured with TypeScript.
 
 
-# Tech Satck Used
+# Tech Stack Used
 Languages/Libraries/Tools:
 
 TypeScript
